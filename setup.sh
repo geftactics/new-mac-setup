@@ -37,6 +37,9 @@ echo "Finished!"
 echo "Launching iTerm2..."
 open /Applications/iTerm.app
 
+echo "Default browser prompt..."
+defaultbrowser chrome
+
 echo "----------------------------------------------"
 echo "     Please close this terminal window!"
 echo "  You can now use iTerm for terminal access."

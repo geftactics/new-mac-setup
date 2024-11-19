@@ -1,4 +1,5 @@
 brew "awscli"
+brew "defaultbrowser"
 brew "docker"
 brew "docker-completion"
 brew "git"
