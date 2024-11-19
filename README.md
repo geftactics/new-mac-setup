@@ -1,6 +1,6 @@
 # new-mac-setup
 
-Script to quickly get as new mac up and running with the following:
+Script to quickly get a new mac up and running with the following:
 
 - brew
 - oh-my-zsh
