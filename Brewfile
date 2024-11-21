@@ -25,6 +25,7 @@ brew "wget"
 brew "zsh-syntax-highlighting"
 
 cask "font-meslo-lg-nerd-font"
+cask "google-chrome"
 cask "hovrly"
 cask "iterm2"
 cask "microsoft-office"
