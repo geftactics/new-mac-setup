@@ -29,7 +29,7 @@ grep -Fxq "$line" ~/.zshrc || echo "$line" >> ~/.zshrc
 
 
 echo "Installing packages from Brewfile..."
-brew bundle install
+brew bundle install --force
 
 
 echo "Copying iTerm2 profile..."
