@@ -9,4 +9,9 @@ Script to quickly get a new mac up and running with the following:
 - Couple of zsh plugins
 - Nice iTerm2 profile (Makes a backup copy before overwriting)
 
-Just run `setup.sh` on a new system!
+Run the following in terminal:
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/geftactics/new-mac-setup/master/download.sh)"
+```
+
+...or run `setup.sh` if in the cloned repo
