@@ -31,6 +31,6 @@ cask "iterm2"
 cask "microsoft-office"
 cask "mysqlworkbench"
 cask "rectangle"
-cask "slack
+cask "slack"
 cask "visual-studio-code"
 cask "zoom"
